@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\bin\Debug\Employee_Payroll_Services_ADO.NET.exe.config
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\bin\Debug\Employee_Payroll_Services_ADO.NET.exe
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\bin\Debug\Employee_Payroll_Services_ADO.NET.pdb
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\obj\Debug\Employee_Payroll_Services_ADO.NET.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\obj\Debug\Employee_Payroll_Services_ADO.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\obj\Debug\Employee_Payroll_Services_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\obj\Debug\Employee_Payroll_Services_ADO.NET.exe
+C:\Users\HP\Desktop\csharp\Employee_Payroll_Services_ADO.NET\obj\Debug\Employee_Payroll_Services_ADO.NET.pdb
